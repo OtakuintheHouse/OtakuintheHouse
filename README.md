@@ -2,7 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Rubik&size=24&pause=850&color=E4E4E4&width=435&lines=Hi+there!%F0%9F%91%8B;I'm+OtakuintheHouse!+Call+me+%22Mao%22%F0%9F%98%8B;Nice+to+meet+U!%F0%9F%98%89)](https://git.io/typing-svg)
 
 Hello! I'm MAO.<br>
-I'm a senior high schooler and learning some programming.
+I'm a freshman and learning some programming.
 
 
 
